@@ -1,0 +1,6 @@
+-------------------- test41-no-command-err.in --------------------
+# Test for wrong command name.
+I prelude1.inc
+> glorp foo
+No command with that name exists.
+<<<
